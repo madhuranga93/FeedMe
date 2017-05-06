@@ -1,0 +1,15 @@
+
+*{margin: 0;padding: 0;}
+a{text-decoration: none;}
+
+.location{
+    margin-top: 50px;
+    margin-left: 380px;
+   
+    width: 600px;
+    height: 500px;
+    background: white;
+    border-style: solid;
+    border-color: orange;
+    
+}
